@@ -1,0 +1,34 @@
+.contact {
+	background-color: #003366;
+	position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+	padding: 20px 20px;
+}
+
+.contact p {
+	font-size: 24px;
+    color: #FFF;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.social {
+	display: flex;
+}
+
+.social a {
+	width: 50px;
+	border-radius: 25px;
+	color:#f9004d;
+	text-decoration: none;
+	height: 50px;
+	margin-right: 10px;
+	background-color: #FFF;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

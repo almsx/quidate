@@ -26,7 +26,7 @@
 
 .about-text h2{
 	color: #FFF;
-	font-size: 75px;
+	font-size: 65px;
 	text-transform: capitalize;
 	margin-bottom: 20px;
 }
@@ -34,24 +34,23 @@
 .about-text h5{
 	color: #FFF;
 	letter-spacing: 2px;
-	font-size: 22px;
+	font-size: 20px;
 	text-transform: capitalize;
 	margin-bottom: 25px;
 }
 
 .about-text p{
-	color: #f9004d;
+	color: #FFF;
 	letter-spacing: 1px;
 	line-height: 28px;
-	font-size: 18px;
+	font-size: 20px;
 	margin-bottom: 45px;
 }
 
 .about-text span{
-	color: #003366;
+	color: #f9004d;
 	letter-spacing: 1px;
-	line-height: 28px;
-	font-size: 18px;
+	font-size: 20px;
 	margin-bottom: 45px;
 }
 
